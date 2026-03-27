@@ -1,6 +1,6 @@
 Name:		fuse-s3
 Version:	1.95
-Release:	1
+Release:	2
 Source0:	https://github.com/s3fs-fuse/s3fs-fuse/archive/refs/tags/v%{version}.tar.gz
 Summary:	Filesystem for working with S3 cloud storage
 URL:		https://github.com/s3fs-fuse/s3fs-fuse
